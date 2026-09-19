@@ -1,0 +1,4 @@
+# GitHub Pages 配置：把 readme.md 渲染为只有文档主体的独立页面
+theme: jekyll-theme-primer
+title: 离岸信托个人所得税傻瓜书
+description: GAAS 智能管理平台 · 海外信托个税，从零到申报缴款的全程手把手操作手册
